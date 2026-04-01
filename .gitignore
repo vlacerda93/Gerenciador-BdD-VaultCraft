@@ -1,0 +1,27 @@
+# Instruction Files
+Estruturaparagemini.txt
+estruturaTauri.txt
+progress.md
+architecture.md
+
+# Database Files
+*.db
+*.db-journal
+VaultBank
+VaultBank-journal
+
+# JavaScript / Node
+node_modules/
+dist/
+dist-tauri/
+
+# Rust / Tauri
+src-tauri/target/
+src-tauri/gen/
+**/*.pdb
+target/
+
+# OS Files
+.DS_Store
+Thumbs.db
+.vscode/
